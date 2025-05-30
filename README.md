@@ -29,7 +29,7 @@
 ---
 
 📫 **How to Reach Me**
-- Email: audumber@example.com  
+- Email: audumber.ch@gmail.com  
 - LinkedIn: https://linkedin.com/in/audumber-chaudhari-086850178 
 - Portfolio: https://www.audumber.com
 
