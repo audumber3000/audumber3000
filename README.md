@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Audumber
 
 🎓 **About Me**  
-I'm a backend and data engineer with a background in Computer Science and professional experience in backend systems and data pipelines, I’m passionate about solving real-world problems through clean code, scalable architectures, and smart data use.
+25 years Old , backend and data engineer with a background in Computer Science and professional experience in backend systems and data pipelines, I’m passionate about solving real-world problems through clean code, scalable architectures, and smart data use.
 
 ---
 
